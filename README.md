@@ -1,3 +1,6 @@
 # hello-world
-a now boy
-like fish
+#Beginning Python
+
+#translate
+table = str.maketrans("CS","KZ")
+'this is an incredible test'.translate(table)
