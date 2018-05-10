@@ -2,5 +2,5 @@
 #Beginning Python
 
 #translate
-table = str.maketrans("CS","KZ")
+table = str.maketrans("cs","kz")
 'this is an incredible test'.translate(table)
